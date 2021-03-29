@@ -6,7 +6,6 @@ import br.com.alura.bytebank.modelo.Cliente
 import br.com.alura.bytebank.modelo.ContaCorrente
 import br.com.alura.bytebank.modelo.ContaPoupanca
 import java.lang.Exception
-import java.lang.NumberFormatException
 
 fun testaComportamentosConta() {
 
